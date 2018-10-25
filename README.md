@@ -1,0 +1,2 @@
+# Feedback-Management-System
+The feedback management module can give customers(students) a means to send/share comments to the client regarding their own experiences regarding faculties and institution progress on the Feedback Management System website, as well as provide a means to give client a satisfaction rating for the courses. This feedback system helps the client know what user experiences are and how to improve that particular course/faculty in future through remarks so that they can enhance or modify their teaching skills.
